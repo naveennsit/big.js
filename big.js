@@ -1,3 +1,5 @@
+
+var name= 'naveen';
 /*
  *  big.js v6.0.3
  *  A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic.
